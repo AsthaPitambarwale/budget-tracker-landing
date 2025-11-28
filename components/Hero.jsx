@@ -102,11 +102,11 @@ export default function Hero() {
                 </linearGradient>
               </defs>
             </svg>
-          </div>
         </div>
 
       </div>
     </section>
   );
 }
+
 
