@@ -11,7 +11,6 @@ A modern and responsive **landing page** for a Budget Tracker app, built using *
 - [Installation](#installation)  
 - [Running the Project](#running-the-project)  
 - [Contributing](#contributing)  
-- [License](#license)  
 
 
 ## Overview
@@ -117,4 +116,5 @@ Open http://localhost:3000 to see the landing page in your browser.
 
 Astha Pitambarwale
 Email: asthapitambarwale@gmail.com.com
+
 Portfolio: https://portfolio-2-0-ruby-one.vercel.app/
