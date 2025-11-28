@@ -44,7 +44,7 @@ The design is fully **responsive**, optimized for both **desktop and mobile devi
 - **Node.js** – Backend environment for development  
 
 ## Project Structure
-
+```bash
 budget-tracker-landing/
 │
 ├─ app/
@@ -66,7 +66,7 @@ budget-tracker-landing/
 ├─ postcss.config.js
 ├─ tailwind.config.js
 └─ README.md
-
+```
 
 - **app/** – Contains main pages and global styles  
 - **components/** – Reusable React components for the landing page  
@@ -118,3 +118,4 @@ Astha Pitambarwale
 Email: asthapitambarwale@gmail.com.com
 
 Portfolio: https://portfolio-2-0-ruby-one.vercel.app/
+
