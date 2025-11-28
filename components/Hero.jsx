@@ -58,7 +58,6 @@ export default function Hero() {
 
         {/* SVG ILLUSTRATION */}
         <div className="flex-1 w-full">
-          <div className="bg-white rounded-3xl p-8 shadow-xl card-soft">
             <svg
               width="800"
               height="600"
@@ -110,3 +109,4 @@ export default function Hero() {
     </section>
   );
 }
+
